@@ -3,6 +3,6 @@
 * building
   ** deps:
       * Rust compiler
-  $ cargo build
+  then run: `$ cargo build`
 * installing
   $ cargo install --path .
